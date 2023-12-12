@@ -1,6 +1,4 @@
 
----
-
 # XAF GPT Data Filler
 
 ## Overview

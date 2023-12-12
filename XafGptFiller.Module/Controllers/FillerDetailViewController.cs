@@ -8,11 +8,11 @@ using OpenAI.ObjectModels.RequestModels;
 
 namespace XafGptFiller.Module.Controllers
 {
-    public class EmployeeDetailViewController : ViewController<DetailView>
+    public class FillerDetailViewController : ViewController<DetailView>
     {
         readonly PopupWindowShowAction FillDataAction;
 
-        public EmployeeDetailViewController()
+        public FillerDetailViewController()
         {
             FillDataAction = new PopupWindowShowAction()
             {

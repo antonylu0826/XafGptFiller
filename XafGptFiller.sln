@@ -10,8 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{5254F59C-AA6D-4F92-80F1-965E356C9B47}"
 	ProjectSection(SolutionItems) = preProject
 		README.MD = README.MD
-		xaf_datafiller.avi = xaf_datafiller.avi
-		xaf_datafiller2.avi = xaf_datafiller2.avi
+		xaf_datafiller.gif = xaf_datafiller.gif
 	EndProjectSection
 EndProject
 Global
@@ -36,5 +35,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D39426F-8E36-4F98-863E-83C52475791E}
 	EndGlobalSection
 EndGlobal
