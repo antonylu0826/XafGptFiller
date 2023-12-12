@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project introduces a powerful enhancement to the XAF system, enabling a seamless data creation experience. Users can now articulate descriptions verbally during the data creation process. Leveraging the sophisticated field settings within the XAF system, our integration with OpenAI's intelligent processing allows for automatic interpretation of user input and populates the relevant fields accordingly.
+This project introduces a enhancement to the XAF system, enabling a seamless data creation experience. Users can now articulate descriptions verbally during the data creation process. Leveraging the sophisticated field settings within the XAF system, our integration with OpenAI's intelligent processing allows for automatic interpretation of user input and populates the relevant fields accordingly.
 
 ## Features
 
