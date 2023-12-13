@@ -13,18 +13,6 @@ This project introduces a enhancement to the XAF system, enabling a seamless dat
 
 - **Automatic Field Population:** The system intelligently populates corresponding fields based on the interpreted content.
 
-## How to Use
-
-1. **Data Creation:**
-   - Start the data creation process within the XAF system.
-   - When prompted, provide a verbal description of the data.
-
-2. **Intelligent Processing:**
-   - OpenAI's intelligence will analyze and interpret the spoken content.
-
-3. **Automatic Field Fill:**
-   - The system will automatically fill in the relevant fields based on the interpreted content.
-
 ## Dependencies
 
 - Devexpress XAF 
